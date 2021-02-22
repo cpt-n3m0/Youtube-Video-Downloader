@@ -1,2 +1,2 @@
 # Youtube-Video-Downloader
-youtube download script made by reverse engineering Youtube's blob storage API
+A wee script that makes use of youtube's blob store api to download videos. It's still pretty hacky and taped together, if anyone cares enough about it let me know and I will refactor it 
